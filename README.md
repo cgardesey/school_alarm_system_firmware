@@ -14,11 +14,11 @@ This is an Arduino project that demonstrates school alarm system . The project u
 
 ## Features
 
--  **Display mode**: Available display modes are: time, date, stopwatch, countdown
--  **Remote controll**: Set time, date, countdown, stopwatch with remote control.
--  **Automatic mode**: Auto adjust display brightness in **automatic mode**
--  **Manual mode**: Manually adjust display brightness with remote control in **manual mode**
--  **Time format**: Choose between **12-hour** and **24-hour** time display modes
+-  Set time and date using keypad and LCD screen
+-  Backup battery to keep the RTC perppertually running in case of poewr outage
+-  Set alarm times with push buttons
+-  Interface with alarm speakers
+-  User friendly interface 
 
 ## Requirements
 To run this project, you will need the following components:
@@ -56,7 +56,7 @@ Setup the the hardware as shown below:
 6. Save the sketch with a meaningful name.
 
 ## Usage
-1. Upload the **clock_firmware.ino** sketch to the Arduino board by clicking the **Upload** button in the Arduino IDE.
+1. Upload the **school_alarm_system_firmware.ino** sketch to the Arduino board by clicking the **Upload** button in the Arduino IDE.
 2. The LED connected to the Arduino board should start blinking at a fixed interval.
 3. Experiment with the code to and customize to suit your needs.
 
