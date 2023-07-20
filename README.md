@@ -36,6 +36,8 @@ To run this project, you will need the following components:
 - 100nF capacitor
 - 22pF capacitor
 - 16mhz xtal
+- Jumper wires
+- Breadboard (optional, for prototyping)
 
 ## Hardware Setup
 Setup the the hardware as shown below:
