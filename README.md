@@ -32,9 +32,7 @@ To run this project, you will need the following components:
 - Cr2032 holder
 - Cr2032 coin cell
 - 10k resistor
-- 100uF capacitor
-- 100nF capacitor
-- 22pF capacitor
+- Capacitors (100uF, 100nF, 22pF)
 - 16mhz xtal
 - Jumper wires
 - Breadboard (optional, for prototyping)
