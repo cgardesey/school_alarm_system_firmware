@@ -40,7 +40,7 @@ To run this project, you will need the following components:
 ## Hardware Setup
 Setup the the hardware as shown below:
 
-![image](https://github.com/cgardesey/smart_security_firmware/assets/10109354/3b127681-51dc-4175-b936-d415535cf182)
+![image](https://github.com/cgardesey/school_alarm_system_firmware/assets/10109354/e4457c44-773d-482a-936c-9b8bab5800de)
 
 
 ## Software Setup
